@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies, run tests, lint with Python, and deply a Docker image on DockerHub
 
-name: Python application
+name: Python2Docker application
 
 on:
   push:
