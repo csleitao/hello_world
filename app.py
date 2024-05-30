@@ -7,4 +7,4 @@ def inc(x: int) -> int:
 
 @app.get("/")
 def root():
-    return "Hello, World!"
+    return "Hello, World! version 2.0."
